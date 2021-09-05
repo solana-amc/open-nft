@@ -1,0 +1,10 @@
+[
+    {
+        "src": "https://raw.githubusercontent.com/solana-amc/open-nft/main/solana/solana-amc/assets/lady_luck.png",
+        "thumbnail": "https://raw.githubusercontent.com/solana-amc/open-nft/main/solana/solana-amc/assets/lady_luck.png",
+        "thumbnailWidth": 512,
+        "thumbnailHeight": 512,
+        "mint": "FXJqywZv1sX77qLL2Bxj2N5dmVVQfGsH34i2eXrbrUPU",
+        "nft_name": "Lady Luck"
+    }
+]
